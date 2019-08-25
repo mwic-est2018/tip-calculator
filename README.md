@@ -1,4 +1,5 @@
 # tip-calculator
+Template Site: https://mwic-est2018.github.io/tip-calculator/
 Task: <br>
 - Using HTML and CSS, create a take this template and customize it. <br>
   - https://fonts.google.com <br>
